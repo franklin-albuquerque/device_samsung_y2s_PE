@@ -1,4 +1,4 @@
-# All unpinned blobs are from G980FXXSIHWKD
+# All unpinned blobs are from G986BXXSIHWKD
 # Vendor security patch level 2023-12-01
 
 # Audio
@@ -64,9 +64,9 @@ vendor/etc/nfc/sec_s3nsen4_hwreg.bin
 vendor/etc/nfc/sec_s3nsen4_swreg.bin
 vendor/firmware/nfc/sec_s3nsen4_firmware.bin
 
-# RIL - G981BXXSCDUJ5
--vendor/lib64/libsec-ril-dsds.so|7ed9ea9e8b4a70759f1c1dc039b847868ac38d06
--vendor/lib64/libsec-ril.so|cfc54d1a2048cbea61900cc034808e7b3ee23ad4
+# RIL - G986BXXSCDUJ5
+-vendor/lib64/libsec-ril-dsds.so|4dcd705d7323c78b8def828c1bf7ab612fef337a
+-vendor/lib64/libsec-ril.so|645a7de5f21eeb768f91332b1eeb6295b5e598ff
 
 # Teegris Firmware
 vendor/tee/00000000-0000-0000-0000-000000534b4d
